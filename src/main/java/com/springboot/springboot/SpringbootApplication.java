@@ -11,6 +11,9 @@ public class SpringbootApplication {
 
 	public static void main(String[] args) {
 		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
 		SpringApplication.run(SpringbootApplication.class, args);
 	}
 	
